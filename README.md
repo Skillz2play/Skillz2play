@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Skillz2play
-- 👀 I’m interested in SCP: SL and Plugin Development
-- 🌱 I’m currently learning C#
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillz2play&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
-i couldnt be bothered to do any special for my readme so i just used template kek
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skillz2play&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Skillz2play/Skillz2play is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
