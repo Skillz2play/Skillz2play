@@ -1,4 +1,4 @@
-## Welcome to my profile! My name is **Skillz2play** and I do EXILED Plugins.
+## Welcome to my profile! My name is **Skillz2play** and I do EXILED Plugins for fun.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillz2play&show_icons=true&theme=radical)
 
