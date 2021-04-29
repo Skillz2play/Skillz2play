@@ -1,10 +1,10 @@
 ## Welcome to my profile! My name is **Skillz2play** and I do EXILED Plugins for fun.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillz2play&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillz2play)](https://github.com/skillz2play)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skillz2play)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skillz2play)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skillz2play&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skillz2play)](https://github.com/skillz2play)
 
 
 <!---
